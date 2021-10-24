@@ -1,0 +1,18 @@
+Student 1:
+Name : Girban Adhikari		Roll : THA077BCT017
+Address : Bhaktapur		Age : 19
+Physics : 90		C : 89
+Maths : 88		Average Marks : 89.00
+
+Student 2:
+Name : Atul Shreewastav		Roll : THA077BCT005
+Address : Kathmandu		Age : 19
+Physics : 81		C : 82
+Maths : 83		Average Marks : 82.00
+
+Student 3:
+Name : Nischal Paudel		Roll : THA077BCT030
+Address : Hetauda		Age : 19
+Physics : 83		C : 84
+Maths : 85		Average Marks : 84.00
+
